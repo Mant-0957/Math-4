@@ -131,4 +131,5 @@ This project is created for educational and portfolio purposes.
 
 # Author
 Mant Patel
+
 Data Analytics & Python Enthusiast
